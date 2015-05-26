@@ -16,9 +16,9 @@ sass:
 
 navigation:
  - title: About
-   url: /index.html
+   url: /
  - title: Contact
-   url: /contact.html
+   url: /contact/
 
 social:
    github: sarahpullman
