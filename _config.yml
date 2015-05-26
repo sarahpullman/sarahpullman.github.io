@@ -1,27 +1,21 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Sarah Pullman
+description: "The website of Sarah Pullman, an architectural studies major at Hobart and William Smith Colleges"
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+url: http://sarahpullman.github.io
+# baseurl: ""
+# paginate_path: "blog/page:num/"
+# permalink: blog/:title/
 
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
  - title: About
-   url: /about
+   url: /index.html
  - title: Contact
-   url: /contact
+   url: /contact.html
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
-
-google_analytics: "UA-58263416-1"
+   github: sarahpullman
+   email: sspullman@gmail.com
